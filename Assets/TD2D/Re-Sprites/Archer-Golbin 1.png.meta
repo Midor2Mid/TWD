@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: d1493bb845b916241a2e17b2a1ba7a53
+timeCreated: 1528911380
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer-Golbin 1_0
+    21300002: Archer-Golbin 1_1
+    21300004: Archer-Golbin 1_2
+    21300006: Archer-Golbin 1_3
+    21300008: Archer-Golbin 1_4
+    21300010: Archer-Golbin 1_5
+    21300012: Archer-Golbin 1_6
+    21300014: Archer-Golbin 1_7
+    21300016: Archer-Golbin 1_8
+    21300018: Archer-Golbin 1_9
+    21300020: Archer-Golbin 1_10
+    21300022: Archer-Golbin 1_11
+    21300024: Archer-Golbin 1_12
+    21300026: Archer-Golbin 1_13
+    21300028: Archer-Golbin 1_14
+    21300030: Archer-Golbin 1_15
+    21300032: Archer-Golbin 1_16
+    21300034: Archer-Golbin 1_17
+    21300036: Archer-Golbin 1_18
+    21300038: Archer-Golbin 1_19
+    21300040: Archer-Golbin 1_20
+    21300042: Archer-Golbin 1_21
+    21300044: Archer-Golbin 1_22
+    21300046: Archer-Golbin 1_23
+    21300048: Archer-Golbin 1_24
+    21300050: Archer-Golbin 1_25
+    21300052: Archer-Golbin 1_26
+    21300054: Archer-Golbin 1_27
+    21300056: Archer-Golbin 1_28
+    21300058: Archer-Golbin 1_29
+    21300060: Archer-Golbin 1_30
+    21300062: Archer-Golbin 1_31
+    21300064: Archer-Golbin 1_32
+    21300066: Archer-Golbin 1_33
+    21300068: Archer-Golbin 1_34
+    21300070: Archer-Golbin 1_35
+    21300072: Archer-Golbin 1_36
+    21300074: Archer-Golbin 1_37
+    21300076: Archer-Golbin 1_38
+    21300078: Archer-Golbin 1_39
+    21300080: Archer-Golbin 1_40
+    21300082: Archer-Golbin 1_41
+    21300084: Archer-Golbin 1_42
+    21300086: Archer-Golbin 1_43
+    21300088: Archer-Golbin 1_44
+    21300090: Archer-Golbin 1_45
+    21300092: Archer-Golbin 1_46
+    21300094: Archer-Golbin 1_47
+    21300096: Archer-Golbin 1_48
+    21300098: Archer-Golbin 1_49
+    21300100: Archer-Golbin 1_50
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archer-Golbin 1_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 589
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 589
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 589
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 589
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 589
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 589
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_6
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 125
+        width: 361
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 503
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 503
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 503
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 503
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 503
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 408
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 408
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 408
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 408
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 408
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 314
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 314
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 314
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 313
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 314
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 314
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 222
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 222
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 221
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 221
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 219
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 123
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 124
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 121
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 123
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 119
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 119
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_36
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 117
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_43
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 28
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_44
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 28
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 28
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_46
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 28
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 28
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_48
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 28
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_49
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 28
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Archer-Golbin 1_50
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 28
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
