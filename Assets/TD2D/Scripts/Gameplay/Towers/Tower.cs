@@ -40,6 +40,11 @@ public class Tower : MonoBehaviour
     /// </summary>
     void Start()
     {
+        var floor = GameObject.Find("Floor");
+
+        if (floor != null)
+            floor.SetActive(false);
+
         uiManager = FindObjectOfType<UiManager>();
 		Debug.Assert(uiManager && actions, "Wrong initial parameters");
 		CloseActions();

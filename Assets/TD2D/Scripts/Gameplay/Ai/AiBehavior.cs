@@ -42,7 +42,7 @@ public class AiBehavior : MonoBehaviour
 		{
 			EnableNewState();
 		}
-	}
+    }
 
 	/// <summary>
 	/// Raises the disable event.
